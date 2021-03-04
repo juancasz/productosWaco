@@ -1,3 +1,4 @@
+Aplicación en vivo acá: https://products-waco.web.app  
 Prueba Tecnica Waco. Para correr localmente crear archivo .env y configurar variables de entorno según el proyecto de firebase usado:  
   
 REACT_APP_API_KEY  
